@@ -1,0 +1,6 @@
+{
+  "name": "상균아놀자TV 공식 홈페이지",
+  "description": "AI천안뉴스 기획사 & 상균아놀자tv(@PlayShortsKorea) 공식 웹사이트. 천안 숨은 맛집 탐방, AI 창작 웹툰, 지역 현안 영상 뉴스 취재.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
